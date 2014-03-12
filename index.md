@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-Welcome to the Bangalore Astronomical Society. Our website is under construction. In the meantime, some useful links, information and announcements will be put up on this "makeshift" website.
+Welcome to the Bangalore Astronomical Society. Our website is under construction. In the meantime, some useful links, information and announcements are being put up on this "makeshift" website.
 
 ## The Google Group
 
