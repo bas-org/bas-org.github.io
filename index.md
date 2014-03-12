@@ -13,7 +13,7 @@ Welcome to the Bangalore Astronomical Society. Our website is under construction
 
 BAS Primary channel of discussion and activity is our Google Group.
 
-[Click here](http://groups.google.com/group/b-a-s) to go to the group's home page to view the archives and to subscribe yourself to it (for free). 
+[Click here](https://groups.google.com/group/b-a-s) to go to the group's home page to view the archives and to subscribe yourself to it (for free). 
 
 The Google group is very active, with some months seeing more than 700 messages. Feel free to post your questions / queries there.
 
