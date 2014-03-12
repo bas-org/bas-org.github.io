@@ -34,7 +34,8 @@ BAS has announced a Certification Program for visual observers. Please see [this
 Membership information is unavailable until our site is restored to normal.
 
 If you really wish to become a member now, please contact us at the following e-mail address: info !AT! bas !DOT! org !DOT! in In the above, replace !AT! and !DOT! by @ and . respectively. This is done to avoid spam.
-Contact Us
+
+## Contact Us
 
 If you need to contact the BAS executive council for any reason, you may e-mail us at the same e-mail address specified above under "Memberships"
 
