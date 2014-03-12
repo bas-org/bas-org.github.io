@@ -7,6 +7,8 @@ tagline:
 
 Welcome to the Bangalore Astronomical Society. Our website is under construction. In the meantime, some useful links, information and announcements are being put up on this "makeshift" website.
 
+![](assets/images/bas_yelagiri_jan_2013.jpg)
+
 ## The Google Group
 
 BAS Primary channel of discussion and activity is our Google Group.
