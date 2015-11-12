@@ -338,7 +338,10 @@ return them.
 
 #### Keeping them clean
 **DO NOT** breathe on the objectives, or spit on them. A small amount of dust on
-the objectives is OK, and will not hurt.
+the objectives is OK, and will not hurt. Keep human fingers (yours and others')
+away from glass surfaces. **DO NOT** rub them with your shirt, undervest, or
+handkerchief.
+
 
 If you go birding with your binoculars, and you get pollen or tree-dust on the
 objectives, blow it away with a small air blower. A mechanical foot-pump (of
