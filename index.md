@@ -17,6 +17,14 @@ BAS Primary channel of discussion and activity is our Google Group.
 
 The Google group is very active, with some months seeing more than 700 messages. Feel free to post your questions / queries there.
 
+## Posts
+
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
 ## Past Events
 
 BAS conducted a practical amateur astronomy workshop in Coorg during December 2013, just before new year's eve with great success! We had 18 telescopes on the field. The event lasted for three nights. Some very advanced observations were performed, possibly for the first time ever from Indian soil.
@@ -39,19 +47,4 @@ If you really wish to become a member now, please contact us at the following e-
 
 If you need to contact the BAS executive council for any reason, you may e-mail us at the same e-mail address specified above under "Memberships"
 
-
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
 
