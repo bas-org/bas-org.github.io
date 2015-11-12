@@ -9,7 +9,7 @@ Welcome to the Bangalore Astronomical Society.
 
 ![](assets/images/bas_yelagiri_jan_2013_480.jpg)
 
-## The Google Group
+## Our mailing list
 
 The primary channel for discussion is our mailing list. You can visit the list's [home page](https://groups.google.com/group/b-a-s) to browse the archives and to subscribe yourself. 
 
