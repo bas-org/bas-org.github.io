@@ -43,7 +43,9 @@ investment. The author does recommend that you not point them at your
 neighbour's windows, however.
 
 ### What can you see with Binoculars?
-A lot; but here's a small list (courtesy Akarsh Simha):
+A lot; but here's a small list (courtesy Akarsh Simha). The "M" stands
+for Messier. You can look these objects up in a sky chart like Stellarium,
+or SkEye.
 
 1. The Pleiades (M 45)
 2. The Hyades (Collinder 50)
@@ -74,6 +76,8 @@ A lot; but here's a small list (courtesy Akarsh Simha):
 Most of these objects should be visible from Bangalore rooftops, as long as your
 skies in that direction don't look orange. This, of course, depends upon your
 location in the city.
+
+If you want more objects to look at, then References [11] and [12] should help.
 
 ### Binocular Specifications
 Binoculars are primarily specified in terms of their **Magnification** and
@@ -356,3 +360,5 @@ the binoculars - this is why they are recommended to be rinsed face-downwards.
 8.  [Zeiss 20x60 T\* S Image Stabilization Binoculars](http://www.zeiss.com/sports-optics/en_de/hunting/binoculars/specialist-binoculars/20x60-binoculars.html#inpagetabs-1%23Position-3)
 9.  [Oberwerk: Binoculars sized from 100mm - 150mm ](http://www.bigbinoculars.com/100mm-150mm.htm)
 10. [Binocular Telescopes](http://www.binoscopes.de/)
+11. [Ed Zarenski's list of 100 Binocular Deep-Sky Objects](http://www.cloudynights.com/documents/binocular.pdf)
+12. [The Binocular Sky: Object Search](http://www.binocularsky.com/binoc_object_query.php)
