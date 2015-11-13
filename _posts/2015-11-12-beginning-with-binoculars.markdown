@@ -342,15 +342,23 @@ the objectives is OK, and will not hurt. Keep human fingers (yours and others')
 away from glass surfaces. **DO NOT** rub them with your shirt, undervest, or
 handkerchief.
 
+**Disclaimer** Please read the manufacturer's note before attempting to clean
+your binoculars. The recommendations below are given in good faith, but might
+not be the best way of cleaning binoculars. BAS and the author are not liable
+for anything that might go wrong by following this process - proceed at your
+own risk.
 
 If you go birding with your binoculars, and you get pollen or tree-dust on the
 objectives, blow it away with a small air blower. A mechanical foot-pump (of
 the kind used to inflate bicycle or car tyres) works well for this purpose, as
 long as the nozzle is clean, and free of dust and grease.
 
-To get fingerprints off the objectives, rinse them gently (**face-downwards**)
-with distilled water, and let them dry. Be careful to not let the water get into
-the binoculars - this is why they are recommended to be rinsed face-downwards.
+To get fingerprints off the objectives, wipe them off very gently using a white
+soft tissue that has been made damp with distilled water. Do not use pressure.
+Discard the tissue after using it for two or three wiping motions. Use a sprayer
+to wet the tissue; if need be, squeeze off excess water so that the tissue is
+just damp. The process should *not* leave streaks on your glass. Do not use
+coloured or perfumed tissues, or tissue that is too stiff.
 
 ### References
 1.  [Collimation Guide for Oberwerk Binoculars](http://www.oberwerk.com/support/collimate.htm)
