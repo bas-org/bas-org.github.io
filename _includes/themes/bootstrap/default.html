@@ -45,7 +45,12 @@
       {{ content }}
       <hr>
       <footer>
-        <p> &copy; {{ site.time | date: '%Y' }} {{ site.author.name }} </p>
+        <p>
+          &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+          <span class="pull-right text-muted">
+-            <a href="https://github.com/bas-org/bas-org.github.io" target="_blank" title="Website source">Source</a>
+-          </span>
+        </p>
       </footer>
     </div>
 
