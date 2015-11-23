@@ -79,6 +79,12 @@ location in the city.
 
 If you want more objects to look at, then References [11] and [12] should help.
 
+If you would like a taste of *what* you can see through binoculars, Rony de
+Laet's Binocular Sketches (Reference [13]) are illuminating, to say the least.
+Please do note that these observations were mostly done under dark skies, and
+with mounted binoculars. That said, the sketches give you an idea of what can be
+achieved with binoculars. 
+
 ### Binocular Specifications
 Binoculars are primarily specified in terms of their **Magnification** and
 **Aperture**. A pair of 10x50 binoculars refers to binoculars with **10x
@@ -373,3 +379,4 @@ coloured or perfumed tissues, or tissue that is too stiff.
 10. [Binocular Telescopes](http://www.binoscopes.de/)
 11. [Ed Zarenski's list of 100 Binocular Deep-Sky Objects](http://www.cloudynights.com/documents/binocular.pdf)
 12. [The Binocular Sky: Object Search](http://www.binocularsky.com/binoc_object_query.php)
+13. [Rony de Laet's Binocular Sketches](http://rodelaet.xtreemhost.com/binocular_astronomy.html)
