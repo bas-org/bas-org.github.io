@@ -11,7 +11,7 @@ pygments: true
 title : BAS
 tagline: Bangalore Astronomical Society
 author :
-  name : Admin
+  name : BAS
   email : admin@bas.org.in
 
 # The production_url is only used when full-domain names are needed

@@ -25,6 +25,8 @@ Posts and articles written by BAS members:
   {% endfor %}
 </ul>
 
+[Atom Feed](atom.xml) [RSS Feed](rss.xml)
+
 ## Past Events
 
 BAS conducted a practical amateur astronomy workshop in Coorg during December 2013, just before the new year's eve, with great success! We had 18 telescopes on the field. The event lasted for three nights. Some very advanced observations were performed, possibly for the first time ever from Indian soil.
