@@ -13,12 +13,12 @@ Binoculars are a relatively inexpensive and often overlooked piece of equipment
 that can be used to explore the night sky. This article tries to provide a quick
 overview of binoculars for beginning stargazers. Note that this is not a
 comprehensive review, and many details have been left out for the sake of
-brevity and accessibility. 
+brevity and accessibility.
 
 No originality of content is claimed, except perhaps for the presentation.
 
 ### Why Binoculars
-Why use binoculars for stargazing? There are a few good reasons. 
+Why use binoculars for stargazing? There are a few good reasons.
 
 Owing to their their wide field of view, it is much easier to locate objects
 through binoculars than in a telescope. This makes it easier for a beginner to
@@ -77,13 +77,14 @@ Most of these objects should be visible from Bangalore rooftops, as long as your
 skies in that direction don't look orange. This, of course, depends upon your
 location in the city.
 
-If you want more objects to look at, then References [11] and [12] should help.
+If you want more objects to look at, then Ed Zarenski's list of [100 Binocular
+Deep-Sky Objects][11] and the Binocular Sky's [Object Search][12] should help.
 
 If you would like a taste of *what* you can see through binoculars, Rony de
-Laet's Binocular Sketches (Reference [13]) are illuminating, to say the least.
-Please do note that these observations were mostly done under dark skies, and
-with mounted binoculars. That said, the sketches give you an idea of what can be
-achieved with binoculars. 
+Laet's [Binocular Sketches][13] are illuminating, to say the least.  Please do
+note that these observations were mostly done under dark skies, and with mounted
+binoculars. That said, the sketches give you an idea of what can be achieved
+with binoculars.
 
 ### Binocular Specifications
 Binoculars are primarily specified in terms of their **Magnification** and
@@ -108,7 +109,7 @@ Glass). BK-7 is considered inferior to BAK-4, but for most practical purposes,
 *this should not matter*. If you hold your binoculars up to the light, and look
 at the eyepieces from a foot or so away, the shape you see can tell you what
 kind of glass has been used for the prisms. BAK-4 prisms show a nice circular
-shape in the eyepiece. BK-7 prisms show a diamond shape in the eyepiece. 
+shape in the eyepiece. BK-7 prisms show a diamond shape in the eyepiece.
 
 Mention must also be made of **ED** glass - this is Extra-low Dispersion glass,
 with virtually no chromatic aberration. It's very good to have in a pair of
@@ -120,7 +121,7 @@ coatings. You might come across the terms **Multi-Coated** and **Fully
 Multi-Coated** in this context. Multi-coated binoculars usually have their
 objectives and oculars coated. The Fully Multi-Coated kind have anti-reflective
 coatings on *all* glass-to-air surfaces. FMC binoculars are preferable to the
-other kind, but are also more expensive. 
+other kind, but are also more expensive.
 
 **Avoid binoculars with Ruby (or similar visibly red) coatings**. These coatings
 work by filtering out the red parts of the spectrum, rendering them pretty much
@@ -152,7 +153,7 @@ vertical and horizontal lines.
 If you look through the binoculars and see two disjoint images, or if you can
 only see one eyepiece, you need to adjust the **Inter-Pupillary Distance**.
 Simply put, the distance between the eyepieces needs to match the distance
-between your eyes. 
+between your eyes.
 
 Binoculars usually have a central "hinge" about which you can "push" or "pull"
 the two optical tubes. Doing this will reduce or increase the distance between
@@ -196,7 +197,7 @@ horizontal lines are at the same level in *both the eyepieces*. In other words,
 you should only see *one horizontal line*. If you see a broken horizontal line,
 then your binoculars are out of collimation, and are best returned to the
 manufacturer. If you're feeling adventurous and don't mind voiding your
-binoculars' warranty, read [1] and [2] and proceed further.
+binoculars' warranty, read References [1][1] and [2][2] and proceed further.
 
 #### Holding Binoculars
 The "intuitive" way of holding binoculars is usually not the right way, in the
@@ -206,7 +207,7 @@ Holding the binoculars by placing your hands as close to the objectives as
 possible (without your fingers hanging over them) will provide more stability.
 
 The author's personal favourite is the "A-Brace" hold, described under a
-different name in [3].
+different name in [3][3].
 
 #### Mounting Binoculars
 Hand-Holding binoculars for more than a few seconds can be cumbersome. It is not
@@ -222,14 +223,14 @@ is probably the best way to mount heavier binoculars. One of the nice things
 about a parallelogram mount is that it can be hacked out of some plywood by
 someone with very little carpentry experience.
 
-Reference [4] deals with binocular mounts in some detail.
+Reference [4][4] deals with binocular mounts in some detail.
 
 Looking up through binoculars can be a pain in the neck, no matter the mount. To
 prevent strain on the back and neck, a (preferably reclining) chair is highly
 recommended. A chair and a monopod make for good binocular observing companions.
 
 #### Image-Stabilized Binoculars
-If you're set on binoculars, but prefer hand-holding over mounting them, 
+If you're set on binoculars, but prefer hand-holding over mounting them,
 but do not want shaky images - despair not, there *is* a solution for you!
 It's called Image-Stabilized Binoculars.
 
@@ -240,7 +241,7 @@ should happen sometime soon.
 
 The idea is to internally move the binocular prisms to compensate for the motion
 of the holder's arms. The mechanism to do so might be electro-mechanical, or
-completely mechanical. 
+completely mechanical.
 
 Happy owners of Image Stabilized binoculars report that they are life-alteringly
 good. A small minority of users who are sensitive to motion-sickness, or suffer
@@ -251,7 +252,7 @@ There seem to be a few major vendors selling Image-Stabilized binoculars - among
 them, Canon, Fujinon, Zeiss, and Nikon. The Zeiss binoculars are mechanically
 stabilized, and don't need power. The rest of them are battery powered.
 
-References [5] - [8] cover Image-Stabilized Binoculars.
+References [5][5], [6][6], [7][7], and [8][8] cover Image-Stabilized Binoculars.
 
 #### Big(ger) Binoculars
 Binocular owners are not immune to aperture fever. Most are content with 10x50s,
@@ -265,12 +266,12 @@ are more likely to be Individual-Focus (IF) as opposed to Centre-Focus (CF).
 In other words, each optical tube has its own focusing mechanism, independent of
 the other - not unlike two telescopes mounted next to each other.
 
-Reference [9] shows a few (representative) models of Big Binoculars, with
+Reference [9][9] shows a few (representative) models of Big Binoculars, with
 pricing information.
 
 What prevents us from getting hold of two identical telescopes, and making a
-binocular telescope? Nothing. Reference [10] shows several successful BTs made
-from pairs of regular telescopes.
+binocular telescope? Nothing. Reference [10][10] shows several successful BTs
+made from pairs of regular telescopes.
 
 ### What to buy, and how
 Firstly, fix your budget. As on this date (circa Oct 25, 2015 in Bangalore), the
@@ -289,7 +290,7 @@ Thirdly, please avoid ruby coatings and zoom binoculars.
 Please note: the recommendations that follow are entirely personal opinions of
 the author, and may please be taken with a pinch of salt. They are not the
 gospel truth. If you find a better deal, and judge it to be a good buy, please
-go for it. 
+go for it.
 
 **The pricing information below is merely representative, and is not accurate**.
 
@@ -367,16 +368,30 @@ just damp. The process should *not* leave streaks on your glass. Do not use
 coloured or perfumed tissues, or tissue that is too stiff.
 
 ### References
-1.  [Collimation Guide for Oberwerk Binoculars](http://www.oberwerk.com/support/collimate.htm)
-2.  ["Collimating" Binoculars (CloudyNights)](http://www.cloudynights.com/page/articles/cat/articles/how-to/%E2%80%9Ccollimating%E2%80%9D-binoculars-r408)
-3.  [How to Hand-Hold a Binocular](http://binocularsky.com/binoc_hold.php)
-4.  [Mounting Binoculars for Astronomy](http://www.binocularsky.com/binoc_mount.php)
-5.  [Philip Harrington, Star Ware, 4th Ed.](http://www.amazon.in/Star-Ware-Astronomers-Telescopes-Accessories-ebook/dp/B00DNKY17W/ref=sr_1_1?ie=UTF8&qid=1447297093&sr=8-1&keywords=star+ware)
-6.  [Gary Seronik, Review: Canon Image-Stabilized Binoculars](http://www.garyseronik.com/?q=node/25)
-7.  [Gary Seronik, Review: Fujinon Techno-Stabi Binoculars](http://www.garyseronik.com/?q=node/172)
-8.  [Zeiss 20x60 T\* S Image Stabilization Binoculars](http://www.zeiss.com/sports-optics/en_de/hunting/binoculars/specialist-binoculars/20x60-binoculars.html#inpagetabs-1%23Position-3)
-9.  [Oberwerk: Binoculars sized from 100mm - 150mm ](http://www.bigbinoculars.com/100mm-150mm.htm)
-10. [Binocular Telescopes](http://www.binoscopes.de/)
-11. [Ed Zarenski's list of 100 Binocular Deep-Sky Objects](http://www.cloudynights.com/documents/binocular.pdf)
-12. [The Binocular Sky: Object Search](http://www.binocularsky.com/binoc_object_query.php)
-13. [Rony de Laet's Binocular Sketches](http://rodelaet.xtreemhost.com/binocular_astronomy.html)
+1.  [Collimation Guide for Oberwerk Binoculars][1]
+2.  ["Collimating" Binoculars (CloudyNights)][2]
+3.  [How to Hand-Hold a Binocular][3]
+4.  [Mounting Binoculars for Astronomy][4]
+5.  [Philip Harrington, Star Ware, 4th Ed.][5]
+6.  [Gary Seronik, Review: Canon Image-Stabilized Binoculars][6]
+7.  [Gary Seronik, Review: Fujinon Techno-Stabi Binoculars][7]
+8.  [Zeiss 20x60 T\* S Image Stabilization Binoculars][8]
+9.  [Oberwerk: Binoculars sized from 100mm - 150mm ][9]
+10. [Binocular Telescopes][10]
+11. [Ed Zarenski's list of 100 Binocular Deep-Sky Objects][11]
+12. [The Binocular Sky: Object Search][12]
+13. [Rony de Laet's Binocular Sketches][13]
+
+[1]:   http://www.oberwerk.com/support/collimate.htm  "Collimation Guide for Oberwerk Binoculars"
+[2]:   http://www.cloudynights.com/page/articles/cat/articles/how-to/%E2%80%9Ccollimating%E2%80%9D-binoculars-r408  "Collimating Binoculars (CloudyNights)"
+[3]:   http://binocularsky.com/binoc_hold.php  "How to Hand-Hold a Binocular"
+[4]:   http://www.binocularsky.com/binoc_mount.php  "Mounting Binoculars for Astronomy"
+[5]:   http://www.amazon.in/Star-Ware-Astronomers-Telescopes-Accessories-ebook/dp/B00DNKY17W/ref=sr_1_1?ie=UTF8&qid=1447297093&sr=8-1&keywords=star+ware  "Philip Harrington, Star Ware, 4th Ed."
+[6]:   http://www.garyseronik.com/?q=node/25  "Gary Seronik, Review: Canon Image-Stabilized Binoculars"
+[7]:   http://www.garyseronik.com/?q=node/172  "Gary Seronik, Review: Fujinon Techno-Stabi Binoculars"
+[8]:   http://www.zeiss.com/sports-optics/en_de/hunting/binoculars/specialist-binoculars/20x60-binoculars.html#inpagetabs-1%23Position-3  "Zeiss 20x60 T * S Image Stabilization Binoculars"
+[9]:   http://www.bigbinoculars.com/100mm-150mm.htm  "Oberwerk: Binoculars sized from 100mm - 150mm"
+[10]:  http://www.binoscopes.de/  "Binocular Telescopes"
+[11]:  http://www.cloudynights.com/documents/binocular.pdf  "Ed Zarenski's list of 100 Binocular Deep-Sky Objects"
+[12]:  http://www.binocularsky.com/binoc_object_query.php  "The Binocular Sky: Object Search"
+[13]:  http://rodelaet.xtreemhost.com/binocular_astronomy.html  "Rony de Laet's Binocular Sketches"
