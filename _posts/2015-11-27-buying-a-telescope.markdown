@@ -278,8 +278,8 @@ the situation.
    smoothen the motion of the mount head.
 
    If your refractor shows interesting colours of the rainbow on the moon,
-   and you're not really able to see the moon except as blob (albeit a blob with
-   *some* features) then the optics are *probably* made of plastic, or low grade
+   and you're not really able to see the moon except as a blob (albeit a blob with
+   *some* features) then the optics are probably made of plastic, or low grade
    glass. This is usually the case with Toy-Store scopes. They are usually a bad
    deal.
 
