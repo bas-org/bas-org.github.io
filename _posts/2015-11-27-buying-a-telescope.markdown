@@ -298,8 +298,8 @@ the situation.
     This usually happens because of a badly positioned corrector, or a bad
     corrector.
 
-  Another complaint could be that the image is just a blob, throughout the range
-  of focuser. For instance, the moon remains a white blob, and it is impossible
+  Another complaint could be that the image is blurry throughout the range of
+  the focuser. For instance, the moon remains a white blob, and it is impossible
   to resolve any details - even craters - on its surface.
 
   Some background is available in [Reference 6][6].
