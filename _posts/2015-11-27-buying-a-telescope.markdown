@@ -115,19 +115,19 @@ in which case you *probably* do not need to buy anything more.
   aid to do your homework before arriving at a buying decision.
 
 ##### Budget
-If budget is your limiting consideration, then the buckets of your interest are
-roughly Rs. 13K, and Rs. 23K. If your budget is smaller than Rs. 13K, *and* you
-do not already possess a pair of binoculars, you are encouraged to read the
-[binocular page][2].
++ If budget is your limiting consideration, then the buckets of your interest are
+  roughly Rs. 13K, and Rs. 23K. If your budget is smaller than Rs. 13K, *and* you
+  do not already possess a pair of binoculars, you are encouraged to read the
+  [binocular page][2].
 
-A budget of around Rs. 13000  will fetch you a 70mm Equatorially mounted
-refractor. In the same bucket, you might be able to find a 70mm Alt-Az
-refractor for a little less, or an 80mm Alt-Az mounted wide-field refractor
-for a little more.
++ A budget of around Rs. 13000  will fetch you a 70mm Equatorially mounted
+  refractor. In the same bucket, you might be able to find a 70mm Alt-Az
+  refractor for a little less, or an 80mm Alt-Az mounted wide-field refractor
+  for a little more.
 
-If you're willing to stretch your budget roughly twofold, a good "middle path"
-choice would be a 6" Dobsonian telescope. This should typically set you back by
-around Rs. 23000.
++ If you're willing to stretch your budget roughly twofold, a good "middle path"
+  choice would be a 6" Dobsonian telescope. This should typically set you back by
+  around Rs. 23000.
 
 ##### Size, Weight & Portability
 + As a rule of thumb, **do not** buy a refractor with optics sized smaller than
@@ -159,37 +159,37 @@ around Rs. 23000.
   form of batteries, or AC. Some will *not* work at all without power.
 
 ##### Use/Interest
-All telescopes do not perform equally well on all kinds of targets. Broadly, one
-could speak of *Planetary Observation* and *Deep-Sky Observation*.
++ All telescopes do not perform equally well on all kinds of targets. Broadly, one
+  could speak of *Planetary Observation* and *Deep-Sky Observation*.
 
-Long focal lengths are suited for Planetary targets, since the narrow FOV
-(and high magnifications) will work well to show details on the Moon and Planets.
-This is also good on Double Stars.
++ Long focal lengths are suited for Planetary targets, since the narrow FOV
+  (and high magnifications) will work well to show details on the Moon and Planets.
+  This is also good on Double Stars.
 
-Short focal lengths give a wide field of view, and are suited for Deep-Sky
-targets.
++ Short focal lengths give a wide field of view, and are suited for Deep-Sky
+  targets.
 
-Here too, a good "middle path" choice is a 6" Reflector. Most available 6" Dobs
-seem to be figured at f/8 or thereabouts, making them slightly on the longer
-side.
++ Here too, a good "middle path" choice is a 6" Reflector. Most available 6" Dobs
+  seem to be figured at f/8 or thereabouts, making them slightly on the longer
+  side.
 
 ##### Maintenance
-Refractors need the least maintenance.
++ Refractors need the least maintenance.
 
-Reflectors need to be collimated fairly often. Collimation is a simple
-procedure, however, and is nothing to be afraid of. A badly collimated reflector
-will perform badly.
++ Reflectors need to be collimated fairly often. Collimation is a simple
+  procedure, however, and is nothing to be afraid of. A badly collimated reflector
+  will perform badly.
 
-Short-tube reflectors with spherical mirrors and a corrector (Barlow) built into
-the focuser (the Bird-Jones or Jones-Bird design) are difficult to collimate.
-You can recognize them by comparing the stated focal length of the telescope to
-the physical length of its tube. If the tube length is a *lot* lesser than the
-focal length, the scope is a Jones-Bird. **Note:** There is nothing inherently
-wrong with the Jones-Bird design; it is just that most low-end scopes using this
-design are badly done. See References [5][5] and [6][6] for more details.
++ Short-tube reflectors with spherical mirrors and a corrector (Barlow) built into
+  the focuser (the Bird-Jones or Jones-Bird design) are difficult to collimate.
+  You can recognize them by comparing the stated focal length of the telescope to
+  the physical length of its tube. If the tube length is a *lot* lesser than the
+  focal length, the scope is a Jones-Bird. **Note:** There is nothing inherently
+  wrong with the Jones-Bird design; it is just that most low-end scopes using this
+  design are badly done. See References [5][5] and [6][6] for more details.
 
-Maks and SCTs usually do not need to be collimated in the field. Collimating a Mak
-is more difficult than collimating a Newtonian reflector.
++ Maks and SCTs usually do not need to be collimated in the field. Collimating a Mak
+  is more difficult than collimating a Newtonian reflector.
 
 ##### Accessories
 + Collimation Tools
@@ -277,7 +277,7 @@ the situation.
    the tripod. It is also possible to make use of pieces of teflon sheeting to
    smoothen the motion of the mount head.
 
-   **If** your refractor shows interesting colours of the rainbow on the moon,
+   If your refractor shows interesting colours of the rainbow on the moon,
    and you're not really able to see the moon except as blob (albeit a blob with
    *some* features) then the optics are *probably* made of plastic, or low grade
    glass. This is usually the case with Toy-Store scopes. They are usually a bad
