@@ -56,9 +56,9 @@ sketcher(s) have seen them, /and/ documented them. However, please do keep in
 mind that it takes a lot of practice to actually achieve these views.
 
 Inspired by the sketches, you might take your newly-acquired scope to your
-rooftop and hunt for say, Andromeda. In all probability, you will see just a
-grey blob. Many factors affect the view in your telescope - some, like the
-equipment, and its care, are in our control. Others, like dark skies (or the
+rooftop and hunt for say, the Andromeda Galaxy. In all probability, you will see
+just a grey blob. Many factors affect the view in your telescope - some, like
+the equipment, and its care, are in our control. Others, like dark skies (or the
 lack thereof), or the weather, are not entirely so.
 
 **Please try and look through a telescope or two, to appreciate what you're
