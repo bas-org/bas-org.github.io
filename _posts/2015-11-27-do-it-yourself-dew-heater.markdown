@@ -17,12 +17,11 @@ objective lenses.
 This is the dew problem. Its primary effect is that it can derail your observing
 session by giving the proceedings a foggy appearance.
 
-The secondary effects are that you can't simply wipe the dew away, you have to
-wait for it to evaporate. That apart, the dew also exposes you to the problem of
-sticky dust on your telescope - especially if there are trees around your
-observing site.
+That apart, the dew also exposes you to the problem of accumulating sticky dust
+on your telescope optics - especially if there are trees around your observing
+site.
 
-Prevention is better than cure; and this is true of dew as well.
+Prevention is better than cure, and this is true of dew as well.
 
 
 ### Dew Shields
@@ -39,7 +38,7 @@ you might need, like Velcro strips.
 
 
 ### Dew Heaters
-Dew Shields are just the first line of defence against dew. Sometimes it is cold
+Dew Shields are the first line of defence against dew. Sometimes it is cold
 enough for dew to form despite dew shields. What you then need is a dew heater.
 Think of it as a dew shield with a built-in heating mechanism.
 
