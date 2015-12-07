@@ -27,7 +27,7 @@ Prevention is better than cure, and this is true of dew as well.
 ### Dew Shields
 Since dew only forms on exposed surfaces, one solution is to shield them.  This
 can be done by having a long enough shade, or *dew shield* extending from the
-objective end of the tube.
+objective end of the tube. This applies primarily to Refractors and Maks.
 
 This [Sky & Telescope article][2] has more to say about dew shields, including
 how to make your own. If you're looking for foam rubber (as mentioned in the
@@ -36,6 +36,11 @@ article), all that you need to do is to get hold of a Yoga Mat.
 Sanath's [article on dew heaters][1] has references to sources for other things
 you might need, like Velcro strips.
 
+*Update:* 
+Per a discussion with Sathya, the formula for the length of the dew
+shield is 1.5*D + 50mm, where D is the telescope aperture in mm.  Sathya also
+recommends using corrugated cardboard reinforced by a covering of duct-tape
+instead of a rubber mat.
 
 ### Dew Heaters
 Dew Shields are the first line of defence against dew. Sometimes it is cold
