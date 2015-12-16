@@ -36,11 +36,10 @@ article), all that you need to do is to get hold of a Yoga Mat.
 Sanath's [article on dew heaters][1] has references to sources for other things
 you might need, like Velcro strips.
 
-*Update:* 
-Per a discussion with Sathya, the formula for the length of the dew
-shield is 1.5*D + 50mm, where D is the telescope aperture in mm.  Sathya also
-recommends using corrugated cardboard reinforced by a covering of duct-tape
-instead of a rubber mat.
+Per a discussion with Sathya, the formula for the length of the dew shield is
+1.5 x D + 50mm, where D is the telescope aperture in mm.  Sathya also recommends
+using corrugated cardboard reinforced by a covering of duct-tape instead of a
+rubber mat.
 
 ### Dew Heaters
 Dew Shields are the first line of defence against dew. Sometimes it is cold
@@ -54,10 +53,13 @@ are available, it is not too difficult to make your own.
 Sanath has written up plans [to make your own dew heater][1]. It also comes with
 vendor/shopping references in Bangalore for the parts involved.
 
+A [discussion on the BAS google group][3] might also make for interesting reading.
 
 ### References
 1. [Sanath Kumar, DIY Dew Heater Project][1]
 2. [Sky & Telescope: Dealing with Dew][2]
+3. [BAS Discussion on dew trouble][3]
 
 [1]:    http://celestial-explorer.blogspot.in/2015/11/dew-heater-diy-for-8-gso-telescope.html "Sanath Kumar, DIY Dew Heater Project "
 [2]:    http://www.skyandtelescope.com/astronomy-resources/dealing-with-dew/ "Sky & Telescope: Dealing With Dew"
+[3]:    https://groups.google.com/forum/#!msg/b-a-s/bdl0M-jaUuE/1iqDg5hGCAAJ "BAS discussion on dew trouble"
