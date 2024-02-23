@@ -29,11 +29,12 @@ Posts and articles written by BAS members:
 
 ## Past Events
 
-BAS conducted a practical amateur astronomy workshop in Coorg during December 2013, just before the new year's eve, with great success! We had 18 telescopes on the field. The event lasted for three nights. Some very advanced observations were performed, possibly for the first time ever from Indian soil.
-
+BAS conducted a practical amateur astronomy workshop in Coorg during 8th to 12th February 2024,with great success! We had 18 telescopes on the field. The 8th,9th,12th were dedicated to advanced amateurs and 10th,11th reserved as public nights. 
+The response on the public nights were very good and appreciated. The event saw around 15 telescopes fielded by BAS 
+members under the pristine skies of Talacauvery,Coorg.
 ## Upcoming Events
-
-There are no planned upcoming events, but some of our members are actively observing whenever the skies are clear, and you can join their trips. Subscribe to the mailing list and follow the discussions to keep track of unofficial events.
+BAS will be participating at IIA's koramangala branch for National Science Day on Sunday,25th February.
+The event is open for the public and do visit the Bangalore Astronomical Society (BAS) booth.
 
 ## BAS Messier Certification Program
 
