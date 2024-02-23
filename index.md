@@ -9,11 +9,15 @@ Welcome to the Bangalore Astronomical Society.
 
 ![](assets/images/bas_yelagiri_jan_2013_480.jpg)
 
-## Our mailing list
+## Join the discussion!
 
-The primary channel for discussion is our mailing list. You can visit the list's [home page](https://groups.google.com/group/b-a-s) to browse the archives and to subscribe yourself. 
+We do not have formal memberships. Our primary channel of communication is our Telegram group. All are welcome to join!
 
-The mailing list is very active, with some months seeing more than 700 messages. Feel free to post your questions / queries there.
+To join our Telegram group, fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfQfHJZrjbMnR2NjynJzYL633iTWfnHTAEEgdaN9MR30jheDA/viewform) which will give you the joining link of the group. We apologize for this extra step, which is our deterrent to prevent spam.
+
+The Telegram group is very active! You do not have to be in Bangalore, or even in India to join. Feel free to post your questions about the universe, astronomy, telescopes, star-gazing, observing, astrophotography etc. on the group.
+
+Watch out for event announcements pinned on the Telegram group and posted to our [Google group](https://groups.google.com/group/b-a-s).
 
 ## Posts and articles
 
