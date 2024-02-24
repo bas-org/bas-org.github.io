@@ -40,7 +40,7 @@ members under the pristine skies of Talacauvery,Coorg.
 BAS will be conducting an outreach program for school children at Sri Venketeshwara Rural High School on
 24th February,2024 evening at Challakere,Karnataka.
 The event should start at 5 p.m and winds at 9 p.m.
-To reach the event location following the location information [https://maps.app.goo.gl/4yYsapHvykkWLR5V9](https://maps.app.goo.gl/4yYsapHvykkWLR5V9)
+To reach the event location, follow the location information [https://maps.app.goo.gl/4yYsapHvykkWLR5V9](https://maps.app.goo.gl/4yYsapHvykkWLR5V9)
 
 BAS will be participating at IIA's koramangala branch for National Science Day on Sunday,25th February.
 The event is open for the public and do visit the Bangalore Astronomical Society (BAS) booth.
