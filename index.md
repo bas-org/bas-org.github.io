@@ -41,6 +41,7 @@ BAS also conducted a session on astrophotography at Amrita Institute of Technolo
 
 BAS conducted an outreach program for school children at Sri Venketeshwara Rural High School on
 24th February,2024 evening at Challakere,Karnataka. Pictures and a general description will be updated soon.
+[Link to event](/_posts/2024-02-26-Challakere-event.markdown)
 
 BAS participated at IIA's koramangala branch for National Science Day on Sunday,25th February,2024.
 An update with pictures from the event will be updated here soon.
