@@ -37,11 +37,14 @@ BAS conducted a practical amateur astronomy workshop in Coorg during 8th to 12th
 The response on the public nights were very good and appreciated. The event saw around 15 telescopes fielded by BAS 
 members under the pristine skies of Talacauvery,Coorg.
 
+BAS also conducted a session on astrophotography at Amrita Institue of Technology. Pictures from the event
+shall be updated here soon.
+
 BAS conducted an outreach program for school children at Sri Venketeshwara Rural High School on
 24th February,2024 evening at Challakere,Karnataka. Pictures and a general description will be updated soon.
 
 BAS participated at IIA's koramangala branch for National Science Day on Sunday,25th February,2024.
-An update with pictures of the even will be updated here soon.
+An update with pictures from the event will be updated here soon.
 
 ## Upcoming Events
 
