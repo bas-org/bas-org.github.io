@@ -36,14 +36,17 @@ Posts and articles written by BAS members:
 BAS conducted a practical amateur astronomy workshop in Coorg during 8th to 12th February 2024,with great success! We had 18 telescopes on the field. The 8th,9th,12th were dedicated to advanced amateurs and 10th,11th reserved as public nights. 
 The response on the public nights were very good and appreciated. The event saw around 15 telescopes fielded by BAS 
 members under the pristine skies of Talacauvery,Coorg.
-## Upcoming Events
-BAS will be conducting an outreach program for school children at Sri Venketeshwara Rural High School on
-24th February,2024 evening at Challakere,Karnataka.
-The event should start at 5 p.m and winds at 9 p.m.
-To reach the event location, follow the location information [https://maps.app.goo.gl/4yYsapHvykkWLR5V9](https://maps.app.goo.gl/4yYsapHvykkWLR5V9)
 
-BAS will be participating at IIA's koramangala branch for National Science Day on Sunday,25th February.
-The event is open for the public and do visit the Bangalore Astronomical Society (BAS) booth.
+BAS conducted an outreach program for school children at Sri Venketeshwara Rural High School on
+24th February,2024 evening at Challakere,Karnataka. Pictures and a general description will be updated soon.
+
+BAS participated at IIA's koramangala branch for National Science Day on Sunday,25th February,2024.
+An update with pictures of the even will be updated here soon.
+
+## Upcoming Events
+
+BAS will be conducting it's annual March Star Party in the first to second week of March. More information
+will be updated here..
 
 ## BAS Messier Certification Program
 
