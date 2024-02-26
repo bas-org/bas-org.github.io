@@ -37,8 +37,7 @@ BAS conducted a practical amateur astronomy workshop in Coorg during 8th to 12th
 The response on the public nights were very good and appreciated. The event saw around 15 telescopes fielded by BAS 
 members under the pristine skies of Talacauvery,Coorg.
 
-BAS also conducted a session on astrophotography at Amrita Institue of Technology. Pictures from the event
-shall be updated here soon.
+BAS also conducted a session on astrophotography at Amrita Institute of Technology,Kasavanahalli,Bengaluru. Pictures from the event shall be updated here soon.
 
 BAS conducted an outreach program for school children at Sri Venketeshwara Rural High School on
 24th February,2024 evening at Challakere,Karnataka. Pictures and a general description will be updated soon.
