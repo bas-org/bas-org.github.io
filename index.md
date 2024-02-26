@@ -45,9 +45,8 @@ An update with pictures of the even will be updated here soon.
 
 ## Upcoming Events
 
-To reach the event location, follow the location information [https://maps.app.goo.gl/4yYsapHvykkWLR5V9](https://maps.app.goo.gl/4yYsapHvykkWLR5V9)
-
-.
+BAS will be conducting it's annual March Star Party in the first to second week of March. More information
+will be updated here..
 
 ## BAS Messier Certification Program
 
