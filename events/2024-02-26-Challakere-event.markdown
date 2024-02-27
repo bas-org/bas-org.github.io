@@ -1,8 +1,7 @@
 ---
-layout: post
-category : article
-tagline: "BAS Challakere Event "
-tags : [Public Outreach]
+layout: page
+title: Challakere Stargazing Event on 24th February, 2024.
+tagline:
 ---
 
 {% include JB/setup %}
