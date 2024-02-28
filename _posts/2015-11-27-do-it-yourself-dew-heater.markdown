@@ -4,7 +4,7 @@ category : article
 tagline: "DIY Dew Heater (Sanath)"
 tags : [diy]
 ---
-{% include JB/setup %}
+
 
 ## A Do-It-Yourself Dew Heater (Courtesy Sanath)
 
