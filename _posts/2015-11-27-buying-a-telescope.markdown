@@ -4,7 +4,7 @@ category : article
 tagline: "Buying a Telescope"
 tags : [beginner, intro]
 ---
-{% include JB/setup %}
+
 
 ## Opinionated Guide to Buying Telescopes
 Karthik Subramanian, karthik !remove spaces! 301176 !+! bas !AT! gmail !DOT! com

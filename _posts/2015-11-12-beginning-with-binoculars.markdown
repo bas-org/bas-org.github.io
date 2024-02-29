@@ -4,7 +4,7 @@ category : article
 tagline: "Binocular Stargazing for Beginners"
 tags : [intro, beginner, binoculars]
 ---
-{% include JB/setup %}
+
 
 ## Stargazing with Binoculars
 Karthik Subramanian, karthik !remove spaces! 301176 !+! bas !AT! gmail !DOT! com
