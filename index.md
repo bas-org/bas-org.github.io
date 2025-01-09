@@ -5,19 +5,23 @@ tagline:
 ---
 
 
-Welcome to the Bangalore Astronomical Society.
+Welcome to the Bangalore Astronomical Society. Bangalore Astronomical Society is a registered charitable trust aimed at promoting Astronomy as a science and a hobby. The activities that we conduct include, 
+- Night Sky Observation Sessions (fondly known as star parties)
+- Astronomy Workshops for Schools, colleges and amateur astronomers
+- Astronomy outreach for general public and schools/colleges
+In addition, BAS members contribute to News paper articles, TV discussions to promote astronomical events and scientific thinking. 
 
 ![](assets/images/bas_yelagiri_jan_2013_480.jpg)
 
 ## Join the discussion!
 
-We do not have formal memberships. Our primary channel of communication is our Telegram group. All are welcome to join!
+We do not have formal memberships. Our primary channel of communication is our Telegram group. All are welcome to join! We are also active on other Social media platforms like [Instagram](https://www.instagram.com/bas.org.in/?hl=en) and [X](https://x.com/b_a_s). 
 
 To join our Telegram group, fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfQfHJZrjbMnR2NjynJzYL633iTWfnHTAEEgdaN9MR30jheDA/viewform) which will give you the joining link of the group. We apologize for this extra step, which is our deterrent to prevent spam.
 
 The Telegram group is very active! You do not have to be in Bangalore, or even in India to join. Feel free to post your questions about the universe, astronomy, telescopes, star-gazing, observing, astrophotography etc. on the group.
 
-Watch out for event announcements pinned on the Telegram group and posted to our [Google group](https://groups.google.com/group/b-a-s).
+Watch out for event announcements pinned on the Telegram group and posted to our other social media platforms as well. 
 
 ## Posts and articles
 
@@ -50,18 +54,12 @@ An update with pictures from the event will be updated here soon.
 BAS will be conducting it's annual March Star Party in the first to second week of March. More information
 will be updated here..
 
-## BAS Messier Certification Program
+## Volunteering
 
-BAS has announced a Certification Program for visual observers. Please see [this announcement](https://groups.google.com/forum/?fromgroups=#!topic/b-a-s/yqYkrd5wbBM) for further information.
-
-## Memberships
-
-Membership information is unavailable until our site is restored to normal.
-
-If you really wish to become a member now, please contact us at the following e-mail address: info !AT! bas !DOT! org !DOT! in In the above, replace !AT! and !DOT! by @ and . respectively. This is done to avoid spam.
+If you wish to volunteer in our activities, please join the Telegram group and contact one of the admins.
 
 ## Contact Us
 
-If you need to contact the BAS executive council for any reason, you may e-mail us at the same e-mail address specified above under "Memberships"
+If you need to contact the BAS executive council for any reason, you may e-mail us at the same e-mail address info !AT! bas !DOT! org !DOT! in
 
 
